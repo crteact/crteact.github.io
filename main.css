@@ -1,0 +1,229 @@
+html,
+            * {
+        box-sizing: border-box;
+        cursor: crosshair;
+
+
+        
+      }
+      a {
+/*        font-weight: bold;
+*/       outline-color: white;
+       /*text-decoration: none;*/
+       text-decoration-style: underline;
+       color: #666699;
+       text-align: center;
+      }
+
+      body {
+        color: black;
+        
+        
+        text-align: center;
+/*       background: linear-gradient(to bottom left, #999966 11%, #ffffcc 85%);
+*/      background-repeat: no-repeat;
+      }
+
+
+
+      h1 {
+        font-size: 45px;
+        color: white;
+        text-transform: uppercase;
+        font-weight: normal;
+     
+      }
+            .mis {
+        line-height: 250%;
+}
+      .second {
+        font-size: 16px;
+        color: red;
+        text-transform: lowercase;
+
+      }
+      .w3-theme {
+      color:#fff !important; background-color:#92b558 !important
+    }
+
+      .first {
+        font-size: 30px;
+        color: blue;
+        font-weight: bold;
+        border: double;
+      }
+
+     
+
+     
+      .nav-bar {
+        list-style-type: none;
+        margin: 0;
+        width: 100%;
+        background-color: #e3e0cc;
+
+
+
+      }
+
+      .nav-bar-list {
+        text-align: justify;
+        display: inline-block;
+        padding: 1%;
+        border-style: dashed;
+        border-color: #C9C0BB;
+
+        
+
+
+
+      }
+
+      .nav-bar-link {
+        color:  #666699;
+        font-size: 24px;
+      
+        padding: 20px;
+        /*text-decoration: line-through;*/
+      }
+
+      #margin {
+            padding-top: 16px;
+        }
+
+    /*  .main-header {
+        padding-top: 100px;
+        height: 425px;
+        background: url("imgs/mancospark.jpg") no-repeat center;
+        background-size: cover;
+        font-style: italic;
+        letter-spacing: 20px;
+        line-height: 5.5em;
+        padding-top: 9px;
+      }*/
+
+      .title {
+        color: white;
+        font-size: 1.5em;
+      }
+
+      .intro {
+        font-size: 1.25em;
+        line-height: 1.5em;
+        width: 50%;
+        margin: auto;
+        padding: 40px;
+        border-style: dotted;
+      }
+
+      .box {
+        display: flex;
+        width: 80%;
+        margin: auto;
+      }
+
+        .box1 {
+        display: flex;
+        width: 80%;
+        margin: 100px;
+        padding-top: 0px;
+        margin-top: 0px;
+      }
+
+
+      .card {
+        
+        padding: 20px;
+        
+      }
+     .headerz {
+      color: red;
+    
+     }
+
+     div.card {
+      text-align: left;
+
+     }
+     
+    img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tips {
+  text-align: center;
+  text-shadow:5px 5px 10px #92b558;
+}
+
+
+.button {
+    background-color: #996666;
+    bottom: 0; 
+    border: dashed;
+    border-color:#C9C0BB;
+    color: #a1c39d;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button1 {padding: 4px 27px;}
+
+}
+
+.button2 {
+  padding-top: 12px;
+  background-color: red;
+}
+.parkname{
+        color: orange;
+      }
+
+      .info{
+      padding-top: 13px;
+    color: orange;
+    font-size: 14px;
+    padding-bottom: 10px;
+    font-weight: bold;
+  }
+
+.address{
+  text-indent: 23px;
+  color: initial;
+  font-size: 16px;
+}
+.info2 {
+  font-size: 20px;
+}
+
+.descriptionheader {
+  text-align: center;
+  display: block;
+  border: 1px solid black;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+    line-height: 1.9;
+    
+}
+
+/*WANT*/
+.mainbox{
+  margin:22px;
+}
+
+.red {
+  color: red;
+}
+ .example2 {
+    border: 1px solid black;
+    background:url(imgs/98.jpg);
+    background-size: 200px 160px;
+    background-repeat: repeat;
+    padding:15px;
+}
